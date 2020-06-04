@@ -3,7 +3,7 @@ title: "이 블로그 설명서"
 permalink: /about/
 toc: true
 toc_sticky: true
-layout: singlessa
+layout: single
 ---
 
 ## 1. onlynewro 블로그
